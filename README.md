@@ -13,23 +13,16 @@ Muizz Newsticker is a Wordpress Plugin to show the title of posts as latest news
 * Change color and size of text, icon
 
 And many more.
-
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
+ 
 ### Installing
-
-A step by step series of examples that tell you have to get a development env running
+ 
+* First download the ZIP file from WordPress website
+* Log in to your website administrator panel
+* Go to the ‘Add New’ in the plugins dashboard, click “Upload Plugin”
+* Upload WordPress Slider ZIP file by choosing it from your computer
+* Click Install Now button
+* Then click Activate Plugin button.
+You can see the muizz newsticker plugin installed on WordPress left menu.
 
 Say what the step will be
 
