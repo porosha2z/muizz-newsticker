@@ -1,11 +1,19 @@
 # Muizz Newsticker Plugin
 ### A simple lightweight news ticker plugin 
 
-Muizz Newsticker is a Wordpress Plugin to show the title of posts as latest news in a horizontal scrolling bar.
+Muizz Newsticker is a Wordpress Plugin to show the title of posts as latest news bar in a horizontal scrolling bar. Can easily be added anywhere through a simple shortcode. 
 
 ## Features
 
-* 
+* Scroll Mode – Scroll the ticker to left, right, up or down.
+* Control scroll speed.
+* Change icon with fontawesome.
+* Change container dimention as needed.
+* Change background color.
+* Change color and size of text, icon
+
+And many more.
+
 
 ## Getting Started
 
