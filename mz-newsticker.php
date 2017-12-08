@@ -25,7 +25,7 @@
  * Domain Path:       /languages
  */
 
-// If this file is called directly, abort.
+// If this file is called directly, abort it.
 if ( ! defined( 'WPINC' ) ) {
 	die;
 }

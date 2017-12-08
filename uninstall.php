@@ -25,7 +25,7 @@
  * @package    Mz_Newsticker
  */
 
-// If uninstall not called from WordPress, then exit.
+// If uninstall not called from WordPress, then exit it.
 if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
 	exit;
 }
