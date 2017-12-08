@@ -56,7 +56,7 @@ class Mz_Newsticker_Admin {
 
 	/**
 	 * Register the stylesheets for the admin area.
-	 * Muizz Newsletter
+	 * Muizz Newsticker
 	 * @since    1.0.0
 	 */
 	public function enqueue_styles() {

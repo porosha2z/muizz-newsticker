@@ -82,7 +82,7 @@ class Mz_Newsticker {
 	}
 
 	/**
-	 * Load the required dependencies for this plugin.
+	 * Load the required dependencies for this newsticker plugin.
 	 *
 	 * Include the following files that make up the plugin:
 	 *
