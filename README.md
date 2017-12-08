@@ -44,5 +44,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* For jquery scroll effect liMarquee credit goes to [http://demo.masscode.ru/limarquee/](liMarquee).
+* For jquery scroll effect liMarquee credit goes to [liMarquee](http://demo.masscode.ru/limarquee/).
  
