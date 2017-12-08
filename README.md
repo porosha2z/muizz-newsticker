@@ -40,7 +40,7 @@ For details about customization and user guide go here
  
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html) file for details
 
 ## Acknowledgments
 
