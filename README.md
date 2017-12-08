@@ -16,7 +16,7 @@ And many more.
  
 ## Installing
 
-###UPLOADING IN WORDPRESS DASHBOARD
+### UPLOADING IN WORDPRESS DASHBOARD
 
 * First download the ZIP file from WordPress website
 * Log in to your website administrator panel
@@ -26,7 +26,7 @@ And many more.
 * Then click Activate Plugin button.
 You can see the muizz newsticker plugin installed on WordPress left menu.
 
-###USING THE WORDPRESS PLUGIN SLIDER DASHBOARD
+### USING THE WORDPRESS PLUGIN SLIDER DASHBOARD
 
 * Go to the ‘Add New’ in the plugins dashboard
 * Search for ‘Muizz newsticker’
@@ -44,6 +44,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* For jquery scroll effect liMarquee credit goes to [http://demo.masscode.ru/limarquee/](liMarquee).
+ 
