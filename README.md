@@ -40,7 +40,7 @@ For details about customization and user guide go here
  
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html) file for details
+This project is licensed under the  GNU General Public License v2 - see the [LICENSE.md](https://github.com/porosha2z/muizz-newsticker/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
