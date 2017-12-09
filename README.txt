@@ -32,6 +32,10 @@ CREDITS:
 [liMarquee](http://demo.masscode.ru/limarquee/) 
 [Settings API](https://github.com/tareq1988/wordpress-settings-api-class)
 
+== Contributors & Developers ==
+“Muizz News Ticker” is open source software. The following people have contributed to this plugin.
+[Porosh Ahammed](http://muizzit.com/porosh-bio)
+
 
 
 == Installation ==
