@@ -14,11 +14,11 @@
 
 
 
-//element shortcode out team  [mz-newsticker post_per_page=""]
+//element shortcode out team  [mz-newsticker]
 
 function mz_newsticker_shortcode($atts,$content = null){
 	extract(shortcode_atts(array(
-		     'post_per_page' => '',		 	  
+		     //'post_per_page' => '',		 	  
 		 	 //'category_name'	=> '',		 	 
 	),$atts, 'mz-newsticker'));
 
