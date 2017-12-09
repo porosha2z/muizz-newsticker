@@ -9,6 +9,8 @@ Stable tag: 1.0.0
 License: GNU GPLv2
 License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 
+A wordpress plugin which gives you ability to add news ticker. 
+
 == Description ==
 **Muizz News Ticker** is a free multi-functional wordpress plugin which gives you ability to add news ticker at any place in your website with just a simple shordcode. You can show your posts title from any specific category.
 
@@ -32,7 +34,7 @@ CREDITS:
 [liMarquee](http://demo.masscode.ru/limarquee/) 
 [Settings API](https://github.com/tareq1988/wordpress-settings-api-class)
 
-== Contributors & Developers ==
+== Contributors ==
 “Muizz News Ticker” is open source software. The following people have contributed to this plugin.
 [Porosh Ahammed](http://muizzit.com/porosh-bio)
 
@@ -60,3 +62,9 @@ Yes.
 1. General Settings
 2. Style Settings
 3. Add Shortcode
+
+== Changelog ==
+Initial version 1.0.0
+
+== Upgrade Notice ==
+Initial version 1.0.0
